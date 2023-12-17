@@ -4870,10 +4870,7 @@
             },
             "parent": "447",
             "components": [
-                null,
-                {
-                    "active": true
-                }
+                null
             ]
         },
         "466": {
