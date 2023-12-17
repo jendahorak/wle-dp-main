@@ -48,7 +48,8 @@
                         "_myRightBottomButtonVisible": false,
                         "_myShowOnDesktop": false,
                         "_myShowOnMobile": true,
-                        "_myShowOnHeadset": false
+                        "_myShowOnHeadset": false,
+                        "_myAddToUniversalGamepad": true
                     },
                     "active": true
                 }
@@ -76,7 +77,7 @@
             "translation": [
                 0.0,
                 0.0,
-                -0.0958757
+                0.0
             ],
             "rotation": [
                 0.0,
@@ -880,9 +881,9 @@
                 0.1
             ],
             "translation": [
-                0.0,
-                1.5882346,
-                0.9809696
+                -1.8434343,
+                1.5882345,
+                -3.1986813
             ],
             "rotation": [
                 0.0,
@@ -7427,9 +7428,6 @@
         }
     },
     "textures": {
-        "181": {
-            "name": "texture"
-        },
         "275": {
             "link": {
                 "name": "texture_0",
